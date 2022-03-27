@@ -22,7 +22,7 @@ body {
 }
 
 .Main {
-  padding: 10px;
+  padding: 1.0rem;
   grid-template-columns: minmax(auto, 976px);
   display: grid;
   justify-content: center;
@@ -59,13 +59,13 @@ body {
 }
 
 .Characters-card h2 {
-  font-size: 18px;
+  font-size: 1.8rem;
   font-weight: 400;
   text-align: center;
 }
 
 .Characters-card h3 {
-  font-size: 18px;
+  font-size: 1.8rem;
   font-weight: 400;
   text-align: left;
   margin: 20px;
@@ -88,7 +88,7 @@ body {
 }
 
 .Characters-item h2 {
-  font-size: 18px;
+  font-size: 1.8rem;
   font-weight: 300;
   padding: 5px 10px;
   display: flex;
